@@ -1,4 +1,4 @@
-# Data science in Python
+# Data science in Python notes
 
 # Table of content
 
