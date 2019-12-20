@@ -80,6 +80,8 @@
 
 ## Misc
 
+- Effectively Using Matplotlib tutorial. https://pbpython.com/effective-matplotlib.html
+
 - "Advanced Jupyter Notebooks: A Tutorial" - detailed and illustrated guide. https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/
 
 - "JavaScript versus Data Science" online book by Greg Wilson and others. [https://software-tools-in-javascript.github.io/js-vs-ds/en/promises/](https://software-tools-in-javascript.github.io/js-vs-ds/en/promises/)
