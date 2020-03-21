@@ -11,6 +11,8 @@
 
 - `awesome-bash` - A curated list of delightful Bash scripts and resources. https://github.com/awesome-lists/awesome-bash
 
+- `awesome-jupyter` - A curated list of awesome Jupyter projects, libraries and resources. https://github.com/markusschanta/awesome-jupyter
+
 - `awesome-programming-books` - Awesome Programming Books. https://github.com/majikarp/awesome-programming-books
 - `awesome-python` - A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com/ and GitHub https://github.com/vinta/awesome-python
 
