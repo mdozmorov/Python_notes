@@ -43,6 +43,8 @@
 
 ## Books
 
+- An open access book on Python, OpenGL and Scientific Visualization, Nicolas P. Rougier, 2018, https://www.labri.fr/perso/nrougier/python-opengl/, https://github.com/rougier/python-opengl
+
 - "PY4E, Python for Everybody, Exploring Data In Python 3" - book providing an Informatics-oriented introduction to programming, with videos, https://www.py4e.com/
 
 - Intermediate Python [https://github.com/yasoob/intermediatePython](https://github.com/yasoob/intermediatePython), [review with references to other e-books](http://www.blog.pythonlibrary.org/2015/09/02/ebook-review-intermediate-python/)
