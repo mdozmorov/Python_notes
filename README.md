@@ -4,6 +4,7 @@
 
 * [Repositories](#repositories)
 * [Books](#books)
+* [Python Courses & Tutorials]((#python-courses--tutorials))
 * [Videos](#videos)
 * [Misc](#misc)
 
@@ -75,6 +76,11 @@
 - "Python 101" book, and a link to "Python 201". Blog post announcing it as free-donation available [http://www.blog.pythonlibrary.org/2017/01/23/python-101-now-free-on-leanpub-permanently/](http://www.blog.pythonlibrary.org/2017/01/23/python-101-now-free-on-leanpub-permanently/), and the book itself [https://leanpub.com/python_101](https://leanpub.com/python_101)
 
 - [R vs Python – a Comparison, and Awesome Books (Free Full PDFs!) to Learn these Languages](http://ucanalytics.com/blogs/r-vs-python-comparison-and-awsome-books-free-pdfs-to-learn-them/) - good list of links. Another one, specifically on R [Learn R : 12 Books (Free PDFs!) and Online Resources](http://ucanalytics.com/blogs/learn-r-12-books-and-online-resources/)
+
+## Python Courses & Tutorials
+
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - all about Jupyter notebooks, and machine/deep learning algorithms implemented in Jupyter notebooks 
+
 
 ## Video
 
