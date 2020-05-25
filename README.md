@@ -81,6 +81,8 @@
 
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - all about Jupyter notebooks, and machine/deep learning algorithms implemented in Jupyter notebooks 
 
+- [Learn Python 3](https://github.com/jerry-git/learn-python3) - a series of notebooks with exercises covering Python3 programming language. Beginner and intermediate material
+
 
 ## Video
 
