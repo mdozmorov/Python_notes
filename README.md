@@ -44,6 +44,8 @@
 
 ## Books
 
+- [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook) GitHub repo and [web version](https://jakevdp.github.io/PythonDataScienceHandbook/), by Jake VanderPlas. The corresponding print [Python Data Science Handbook](https://www.oreilly.com/library/view/python-data-science/9781491912126/) 
+
 - An open access book on Python, OpenGL and Scientific Visualization, Nicolas P. Rougier, 2018, https://www.labri.fr/perso/nrougier/python-opengl/, https://github.com/rougier/python-opengl
 
 - "PY4E, Python for Everybody, Exploring Data In Python 3" - book providing an Informatics-oriented introduction to programming, with videos, https://www.py4e.com/
