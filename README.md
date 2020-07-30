@@ -2,11 +2,16 @@
 
 # Table of content
 
+* [Cheat sheets](#cheat-sheets)
 * [Repositories](#repositories)
 * [Books](#books)
 * [Python Courses & Tutorials]((#python-courses--tutorials))
 * [Videos](#videos)
 * [Misc](#misc)
+
+## Cheat sheets
+
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet, https://github.com/gto76/python-cheatsheet
 
 ## Repositories
 
