@@ -12,6 +12,7 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [General](#general)
 - [Cheatsheets](#cheatsheets)
+- [Books](#books)
 - [Courses](#courses)
   - [Videos](#videos)
 - [Python Data Analysis](#python-data-analysis)
@@ -40,30 +41,31 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [Matplotlib 3.1 cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 
-## Courses
+## Books
 
 - [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html) - Learning Python programming from ground up
 
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) book by Jake VanderPlas, [O'Relly web wersion](https://www.oreilly.com/learning/a-whirlwind-tour-of-python)
 
+- [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook) GitHub repo and [web version](https://jakevdp.github.io/PythonDataScienceHandbook/), by Jake VanderPlas. The corresponding print [Python Data Science Handbook](https://www.oreilly.com/library/view/python-data-science/9781491912126/) 
 - [Python 101](https://leanpub.com/python_101) book, and a link to "Python 201". Blog post announcing it as free-donation available, [blog post](http://www.blog.pythonlibrary.org/2017/01/23/python-101-now-free-on-leanpub-permanently/)
 
-- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) - free DataCamp course 
-
 - [cookbook-2nd](https://github.com/ipython-books/cookbook-2nd) - IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018. Code and chapters, excellent resource. [Compiled version](https://ipython-books.github.io/)
-
-- [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning. Layered approach to Pyhton and Machine Learning. From basics to advanced deep learning
-
-- [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook) GitHub repo and [web version](https://jakevdp.github.io/PythonDataScienceHandbook/), by Jake VanderPlas. The corresponding print [Python Data Science Handbook](https://www.oreilly.com/library/view/python-data-science/9781491912126/) 
-
-- [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming, course by David Beazley
-
-- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, Spark, Hadoop MapReduce, HDFS, matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines
 
 - [PY4E, Python for Everybody, Exploring Data In Python 3](https://www.py4e.com/
 ) - book providing an Informatics-oriented introduction to programming, with videos
 
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) - book with exercises. Python 2 and 3 versions
+
+## Courses
+
+- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) - free DataCamp course 
+
+- [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning. Layered approach to Pyhton and Machine Learning. From basics to advanced deep learning
+
+- [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming, course by David Beazley
+
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, Spark, Hadoop MapReduce, HDFS, matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines
 
 - [Scientific Python lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks
 
