@@ -57,6 +57,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) - book with exercises. Python 2 and 3 versions
 
+- [About Learning Python, 5th Edition](https://learning-python.com/about-lp5e.html) by Mark Lutz. Chapter samples, code
+
 ## Courses
 
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) - free DataCamp course 
