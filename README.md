@@ -41,6 +41,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [Matplotlib 3.1 cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 
+- [matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets) GitHub repo, Official Matplotlib cheat sheets
+
 ## Books
 
 - [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html) - Learning Python programming from ground up
