@@ -101,6 +101,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library. Detailed tutorials
 
+- [Easier data analysis in Python with pandas (video series)](https://www.dataschool.io/easier-data-analysis-with-pandas/) - Pandas for beginners. [Youtube](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+
 - [Intro to Pandas data structures - a gentle introduction to data analysis using pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 
 
