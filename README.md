@@ -45,7 +45,7 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 ## Books
 
-- [Tiny Python Projects](https://www.manning.com/books/tiny-python-projects?a_aid=youens&a_bid=b6485d52)by [ Ken Youens-Clark](https://github.com/kyclark), [GitHub](https://github.com/kyclark/tiny_python_projects) code and [Youtube videos](https://www.youtube.com/user/kyclark/playlists)
+- [Tiny Python Projects](https://www.manning.com/books/tiny-python-projects?a_aid=youens&a_bid=b6485d52)by [ Ken Youens-Clark](https://github.com/kyclark), [GitHub](https://github.com/kyclark/tiny_python_projects) code and [Youtube videos](https://www.youtube.com/user/kyclark/playlists). [new.py](https://github.com/kyclark/new.py) - automates skeleton creation for new Python programs
 
 - [Mastering Python for Bioinformatics](https://www.oreilly.com/library/view/mastering-python-for/9781098100872/) by [ Ken Youens-Clark](https://github.com/kyclark), [GitHub](https://github.com/kyclark/biofx_python) code part
 
