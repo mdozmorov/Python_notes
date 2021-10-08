@@ -67,6 +67,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 ## Courses
 
+- [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) - Structured exercises as files: 1. Exercise instructions, 2. Solutions without code, 3. Solutions with code and comments.
+
 - [Data 8: The Foundations of Data Science](http://data8.org) - statistically-oriented data science course with Python programming. [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html) book, lecture materials and videos.
 
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) - free DataCamp course 
