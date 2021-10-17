@@ -45,6 +45,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 ## Books
 
+- [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans. "The Hitchhiker's Guide to Python" book by Kenneth Reitz and Tanya Schlusser
+
 
 - [Python for Data Analysis, 2nd Edition](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media. 
 
