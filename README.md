@@ -45,6 +45,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 ## Books
 
+- [Scientific Visualization: Python + Matplotlib](https://www.labri.fr/perso/nrougier/scientific-visualization.html) by Nicolas P. Rougier. [Tweet](https://twitter.com/NPRougier/status/1460205666606403588?s=20), [GitHub](https://github.com/rougier/scientific-visualization-book)
+
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans. "The Hitchhiker's Guide to Python" book by Kenneth Reitz and Tanya Schlusser
 
 
