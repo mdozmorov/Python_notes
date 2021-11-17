@@ -119,6 +119,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 ### Visualization
 
+- [Python Visualization Landscape](https://github.com/rougier/python-visualization-landscape) - Adaptation of Jake VanderPlas graphic about python visualization landscape. [Web](http://rougier.github.io/python-visualization-landscape/landscape-colors.html), [Jake's Slides](https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017) and [Video](https://www.youtube.com/watch?v=FytuB8nFHPQ)
+
 - [graph-tool](https://graph-tool.skewed.de/) - Graph-tool is an efficient Python module for manipulation and statistical analysis of graphs (a.k.a. networks).
 
 - [Clust](https://github.com/BaselAbujamous/clust) - Python script for gene clustering without strict requirement of all genes being assigned to clusters. Also, clustering across multiple datasets to find similar patterns. Timecourse clustering. Outperforms seven clustering techniques (cross-clustering, k-means, SOM, MCL, HC, Click, WGCNA) using seven metrics (Davies-Bouldin, BIC, silhouette, Calinski-Harabasz, Ball-Hall, Xu, within-between indices). 
