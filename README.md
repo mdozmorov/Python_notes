@@ -31,6 +31,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 ## Cheatsheets
 
+- [py_resources](https://github.com/learnbyexample/py_resources) - Collection of Python learning resources (beginner resources, specific features, intermediate to advance resources, domain specific resources)
+
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 
 - [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
