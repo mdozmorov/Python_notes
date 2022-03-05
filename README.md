@@ -90,6 +90,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [A gallery of interesting IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - notebooks introducing Python and statistics, machine learning and data-driven analysis
 
+- [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills. IPython notebooks for Colab, DeepNote, MyBinder, etc., python scripts. By [Peter Norvig](https://github.com/norvig)
+
 - [learn-python3](https://github.com/jerry-git/learn-python3) - a series of notebooks with exercises covering Python3 programming language. Beginner and intermediate material
 
 - [Intermediate Python](https://github.com/yasoob/intermediatePython), [review with references to other e-books](http://www.blog.pythonlibrary.org/2015/09/02/ebook-review-intermediate-python/)
