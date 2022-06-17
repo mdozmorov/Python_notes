@@ -28,6 +28,10 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/) - detailed and illustrated guide
 
+- [SciPy](https://github.com/scipy/scipy) scientific [Python](https://github.com/python/cpython) library development, history, algorithms (signal/image processing, plotting, integrals, ODE solvers, optimization, genetic algorithms, splines, parallel programming, many more). Started in 2001, over 100K dependent repositories. Includes 16 data packages ([Box2](https://www.nature.com/articles/s41592-019-0686-2#Sec7)). [Documentation](https://docs.scipy.org/doc/). <details>
+  <summary>Paper</summary>
+  SciPy 1.0 Contributors, Pauli Virtanen, Ralf Gommers, Travis E. Oliphant, Matt Haberland, Tyler Reddy, David Cournapeau, et al. “SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python.” Nature Methods, February 3, 2020. https://doi.org/10.1038/s41592-019-0686-2.
+</details>
 
 ## Cheatsheets
 
