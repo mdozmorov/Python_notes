@@ -143,6 +143,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [Comprehensive Beginner’s Guide to Jupyter Notebooks for Data Science & Machine Learning](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/), by Analytics Vidhya
 
+- [PyLab](https://github.com/Cat-Computing-Universe/PyLab) - web based scientific computing platform supporting Python, GPU
+
 - Rule, Adam, Amanda Birmingham, Cristal Zuniga, Ilkay Altintas, Shih-Cheng Huang, Rob Knight, Niema Moshiri, et al. “[Ten Simple Rules for Writing and Sharing Computational Analyses in Jupyter Notebooks](https://doi.org/10.1371/journal.pcbi.1007007).” PLoS Computational Biology 15, no. 7 (July 2019) - Jupyter notebook practices. ipywidgets, watermark, papermill, nbviewer, binder. [Notebook examples](https://github.com/jupyter-guide/ten-rules-jupyter), [Guide for Reproducible Research and Data Science in Jupyter Notebooks](https://github.com/jupyter-guide/jupyter-guide)
 
 
