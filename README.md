@@ -28,6 +28,11 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/) - detailed and illustrated guide
 
+- [NumPy](https://numpy.org/) history and principles of array programming for the Python language. Vectorized calculations on arrays, including arithmetic, statistics, trigonometry. Broadcasting (expanding dimensions that differ). Coupling with SciPy and Matplotlib. <details>
+  <summary>Paper</summary>
+  Harris, Charles R., K. Jarrod Millman, Stéfan J. Van Der Walt, Ralf Gommers, Pauli Virtanen, David Cournapeau, Eric Wieser et al. "Array programming with NumPy." Nature 585, no. 7825 (2020): 357-362. https://doi.org/10.1038/s41586-020-2649-2
+</details>
+
 - [SciPy](https://github.com/scipy/scipy) scientific [Python](https://github.com/python/cpython) library development, history, algorithms (signal/image processing, plotting, integrals, ODE solvers, optimization, genetic algorithms, splines, parallel programming, many more). Started in 2001, over 100K dependent repositories. Includes 16 data packages ([Box2](https://www.nature.com/articles/s41592-019-0686-2#Sec7)). [Documentation](https://docs.scipy.org/doc/). <details>
   <summary>Paper</summary>
   SciPy 1.0 Contributors, Pauli Virtanen, Ralf Gommers, Travis E. Oliphant, Matt Haberland, Tyler Reddy, David Cournapeau, et al. “SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python.” Nature Methods, February 3, 2020. https://doi.org/10.1038/s41592-019-0686-2.
