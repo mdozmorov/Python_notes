@@ -12,11 +12,10 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [General](#general)
 - [Cheatsheets](#cheatsheets)
-- [Books](#books)
 - [Courses](#courses)
-  - [Videos](#videos)
-- [Python Data Analysis](#python-data-analysis)
+- [Data Analysis](#data-analysis)
   - [Visualization](#visualization)
+- [Projects](#projects)
 - [Python Misc](#python-misc)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -40,10 +39,6 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 ## Cheatsheets
 
-- [py_resources](https://github.com/learnbyexample/py_resources) - Collection of Python learning resources (beginner resources, specific features, intermediate to advance resources, domain specific resources)
-
-- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
-
 - [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 
 - [awesome-python](https://awesome-python.com/) - A curated list of awesome Python frameworks, libraries, software and resources, [GitHub](https://github.com/vinta/awesome-python)
@@ -54,97 +49,99 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets) GitHub repo, Official Matplotlib cheat sheets
 
-## Books
+- [py_resources](https://github.com/learnbyexample/py_resources) - Collection of Python learning resources (beginner resources, specific features, intermediate to advance resources, domain specific resources)
 
-- [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans. "The Hitchhiker's Guide to Python" book by Kenneth Reitz and Tanya Schlusser
+- [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 
+## Courses
 
-- [Python for Data Analysis, 2nd Edition](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media. 
+- [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) book by Jake VanderPlas, [O'Relly web wersion](https://www.oreilly.com/learning/a-whirlwind-tour-of-python)
 
-- [Tiny Python Projects](https://www.manning.com/books/tiny-python-projects?a_aid=youens&a_bid=b6485d52)by [ Ken Youens-Clark](https://github.com/kyclark), [GitHub](https://github.com/kyclark/tiny_python_projects) code and [Youtube videos](https://www.youtube.com/user/kyclark/playlists). [new.py](https://github.com/kyclark/new.py) - automates skeleton creation for new Python programs
+- [An open access book on Python, OpenGL and Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/), Nicolas P. Rougier, 2018. [GitHub](https://github.com/rougier/python-opengl)
 
-- [Mastering Python for Bioinformatics](https://www.oreilly.com/library/view/mastering-python-for/9781098100872/) by [ Ken Youens-Clark](https://github.com/kyclark), [GitHub](https://github.com/kyclark/biofx_python) code part
+- [About Learning Python, 5th Edition](https://learning-python.com/about-lp5e.html) by Mark Lutz. Chapter samples, code
+
+- [cookbook-2nd](https://github.com/ipython-books/cookbook-2nd) - IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018. Code and chapters, excellent resource. [Compiled version](https://ipython-books.github.io/)
+
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, Spark, Hadoop MapReduce, HDFS, matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines
+
+- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) - free DataCamp course 
+
+- [Intermediate Python](https://github.com/yasoob/intermediatePython), [review with references to other e-books](http://www.blog.pythonlibrary.org/2015/09/02/ebook-review-intermediate-python/)
+
+- [Introductory Python lectures](https://github.com/rajathkumarmp/Python-Lectures.git) - IPython notebooks 
+
+- [Introduction to Computer Science and Programming in Python. Video Series from MIT 6.0001](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 - [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html) - Learning Python programming from ground up
 
-- [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) book by Jake VanderPlas, [O'Relly web wersion](https://www.oreilly.com/learning/a-whirlwind-tour-of-python)
+- [Hydropythonica](https://github.com/whitehorn/Hydropythonica) - Python programming basics. Lecture slides, iPython notebooks. Rus
+
+- [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) - book with exercises. Python 2 and 3 versions
+
+- [learn-python3](https://github.com/jerry-git/learn-python3) - a series of notebooks with exercises covering Python3 programming language. Beginner and intermediate material
+
+- [Mastering Python for Bioinformatics](https://www.oreilly.com/library/view/mastering-python-for/9781098100872/) by [ Ken Youens-Clark](https://github.com/kyclark), [GitHub](https://github.com/kyclark/biofx_python) code part
+
+- [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming, course by David Beazley
+
+- [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans. "The Hitchhiker's Guide to Python" book by Kenneth Reitz and Tanya Schlusser
+
+- [Python for Data Analysis, 2nd Edition](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media. 
 
 - [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook) GitHub repo and [web version](https://jakevdp.github.io/PythonDataScienceHandbook/), by Jake VanderPlas. The corresponding print [Python Data Science Handbook](https://www.oreilly.com/library/view/python-data-science/9781491912126/) 
 - [Python 101](https://leanpub.com/python_101) book, and a link to "Python 201". Blog post announcing it as free-donation available, [blog post](http://www.blog.pythonlibrary.org/2017/01/23/python-101-now-free-on-leanpub-permanently/)
 
-- [cookbook-2nd](https://github.com/ipython-books/cookbook-2nd) - IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018. Code and chapters, excellent resource. [Compiled version](https://ipython-books.github.io/)
-
 - [PY4E, Python for Everybody, Exploring Data In Python 3](https://www.py4e.com/
 ) - book providing an Informatics-oriented introduction to programming, with videos
 
-- [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) - book with exercises. Python 2 and 3 versions
+- [Scientific Python lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks
 
-- [About Learning Python, 5th Edition](https://learning-python.com/about-lp5e.html) by Mark Lutz. Chapter samples, code
-
-## Courses
-
-- [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) - Structured exercises as files: 1. Exercise instructions, 2. Solutions without code, 3. Solutions with code and comments.
-
-- [Data 8: The Foundations of Data Science](http://data8.org) - statistically-oriented data science course with Python programming. [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html) book, lecture materials and videos.
-
-- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) - free DataCamp course 
+- [Tiny Python Projects](https://www.manning.com/books/tiny-python-projects?a_aid=youens&a_bid=b6485d52)by [ Ken Youens-Clark](https://github.com/kyclark), [GitHub](https://github.com/kyclark/tiny_python_projects) code and [Youtube videos](https://www.youtube.com/user/kyclark/playlists). [new.py](https://github.com/kyclark/new.py) - automates skeleton creation for new Python programs
 
 - [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning. Layered approach to Pyhton and Machine Learning. From basics to advanced deep learning
 
-- [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming, course by David Beazley
-
-- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, Spark, Hadoop MapReduce, HDFS, matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines
-
-- [Scientific Python lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks
-
-- [A gallery of interesting IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - notebooks introducing Python and statistics, machine learning and data-driven analysis
-
-- [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills. IPython notebooks for Colab, DeepNote, MyBinder, etc., python scripts. By [Peter Norvig](https://github.com/norvig)
-
-- [learn-python3](https://github.com/jerry-git/learn-python3) - a series of notebooks with exercises covering Python3 programming language. Beginner and intermediate material
-
-- [Intermediate Python](https://github.com/yasoob/intermediatePython), [review with references to other e-books](http://www.blog.pythonlibrary.org/2015/09/02/ebook-review-intermediate-python/)
-
-- [An open access book on Python, OpenGL and Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/), Nicolas P. Rougier, 2018. [GitHub](https://github.com/rougier/python-opengl)
-
-- [Introductory Python lectures](https://github.com/rajathkumarmp/Python-Lectures.git) - IPython notebooks 
-
-- [Hydropythonica](https://github.com/whitehorn/Hydropythonica) - Python programming basics. Lecture slides, iPython notebooks. Rus
-
-- [Scientific_graphics_in_python](https://github.com/whitehorn/Scientific_graphics_in_python) - Scientific graphics in Python. Rus
-
-### Videos
-
-- [Introduction to Computer Science and Programming in Python. Video Series from MIT 6.0001](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
-
-## Python Data Analysis
+## Data Analysis
 
 - [Cleaning & Modifying A Dataframe – Python](https://datascienceplus.com/cleaning-modifying-a-dataframe-python/)
 
-- [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library. Detailed tutorials
+- [Data 8: The Foundations of Data Science](http://data8.org) - statistically-oriented data science course with Python programming. [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html) book, lecture materials and videos.
 
 - [Easier data analysis in Python with pandas (video series)](https://www.dataschool.io/easier-data-analysis-with-pandas/) - Pandas for beginners. [Youtube](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 
 - [Intro to Pandas data structures - a gentle introduction to data analysis using pandas](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 
+- [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) - Structured exercises as files: 1. Exercise instructions, 2. Solutions without code, 3. Solutions with code and comments.
+
+- [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library. Detailed tutorials
+
 
 ### Visualization
 
-- [Scientific Visualization: Python + Matplotlib](https://www.labri.fr/perso/nrougier/scientific-visualization.html) by Nicolas P. Rougier. [Tweet](https://twitter.com/NPRougier/status/1460205666606403588?s=20), [GitHub](https://github.com/rougier/scientific-visualization-book)
-
-- [Python Visualization Landscape](https://github.com/rougier/python-visualization-landscape) - Adaptation of Jake VanderPlas graphic about python visualization landscape. [Web](http://rougier.github.io/python-visualization-landscape/landscape-colors.html), [Jake's Slides](https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017) and [Video](https://www.youtube.com/watch?v=FytuB8nFHPQ)
-
-- [graph-tool](https://graph-tool.skewed.de/) - Graph-tool is an efficient Python module for manipulation and statistical analysis of graphs (a.k.a. networks).
-
-- [Clust](https://github.com/BaselAbujamous/clust) - Python script for gene clustering without strict requirement of all genes being assigned to clusters. Also, clustering across multiple datasets to find similar patterns. Timecourse clustering. Outperforms seven clustering techniques (cross-clustering, k-means, SOM, MCL, HC, Click, WGCNA) using seven metrics (Davies-Bouldin, BIC, silhouette, Calinski-Harabasz, Ball-Hall, Xu, within-between indices). 
-    - Abu-Jamous, Basel, and Steven Kelly. “[Clust: Automatic Extraction of Optimal Co-Expressed Gene Clusters from Gene Expression Data](https://doi.org/10.1186/s13059-018-1536-8).” Genome Biology 19, no. 1 (December 2018)
+- [Clust](https://github.com/BaselAbujamous/clust) - Python script for gene clustering without strict requirement of all genes being assigned to clusters. Also, clustering across multiple datasets to find similar patterns. Timecourse clustering. Outperforms seven clustering techniques (cross-clustering, k-means, SOM, MCL, HC, Click, WGCNA) using seven metrics (Davies-Bouldin, BIC, silhouette, Calinski-Harabasz, Ball-Hall, Xu, within-between indices). <details>
+  <summary>Paper</summary>
+  Abu-Jamous, Basel, and Steven Kelly. “Clust: Automatic Extraction of Optimal Co-Expressed Gene Clusters from Gene Expression Data” Genome Biology 19, no. 1 (December 2018) https://doi.org/10.1186/s13059-018-1536-8
+</details>
 
 - [Effectively Using Matplotlib tutorial](https://pbpython.com/effective-matplotlib.html)
 
+- [graph-tool](https://graph-tool.skewed.de/) - Graph-tool is an efficient Python module for manipulation and statistical analysis of graphs (a.k.a. networks).
 
-## Python Misc
+- [Python Visualization Landscape](https://github.com/rougier/python-visualization-landscape) - Adaptation of Jake VanderPlas graphic about python visualization landscape. [Web](http://rougier.github.io/python-visualization-landscape/landscape-colors.html), [Jake's Slides](https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017) and [Video](https://www.youtube.com/watch?v=FytuB8nFHPQ)
+
+- [Scientific Visualization: Python + Matplotlib](https://www.labri.fr/perso/nrougier/scientific-visualization.html) by Nicolas P. Rougier. [Tweet](https://twitter.com/NPRougier/status/1460205666606403588?s=20), [GitHub](https://github.com/rougier/scientific-visualization-book)
+
+- [Scientific_graphics_in_python](https://github.com/whitehorn/Scientific_graphics_in_python) - Scientific graphics in Python. Rus
+
+## Projects
 
 - [70+ Python Projects](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html) with source code and tutorials. [Tweet](https://twitter.com/omarsar0/status/1400511872399335425?s=20)
+
+- [A gallery of interesting IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - notebooks introducing Python and statistics, machine learning and data-driven analysis
+
+- [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills. IPython notebooks for Colab, DeepNote, MyBinder, etc., python scripts. By [Peter Norvig](https://github.com/norvig)
+
+## Python Misc
 
 - [Comprehensive Beginner’s Guide to Jupyter Notebooks for Data Science & Machine Learning](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/), by Analytics Vidhya
 
