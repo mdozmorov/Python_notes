@@ -85,6 +85,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming, course by David Beazley
 
+- [Python Programming for Beginners – Full Course](https://youtu.be/eWRfhZUzrAc) - 4h40m video course on Python basics, by Beau Carnes. Examples of the [Rock, Paper, Scissors](https://replit.com/@BeauCarnes/rps-python) and [Blackjack](https://replit.com/@BeauCarnes/blackjack-python) games. Uses [Replit](https://replit.com/) for in-browser coding. Accompanying [The Python Handbook – Learn Python for Beginners](https://www.freecodecamp.org/news/the-python-handbook/) by Flavio Copes
+
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans. "The Hitchhiker's Guide to Python" book by Kenneth Reitz and Tanya Schlusser
 
 - [Python for Data Analysis, 2nd Edition](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media. 
