@@ -69,6 +69,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [Intermediate Python](https://github.com/yasoob/intermediatePython), [review with references to other e-books](http://www.blog.pythonlibrary.org/2015/09/02/ebook-review-intermediate-python/)
 
+- [Intro to Algorithms with Python](https://www.freecodecamp.org/news/intro-to-algorithms-with-python/) - 2h 10m [video](https://youtu.be/fW_OS3LGB9Q) by [Joy Brooks](https://www.youtube.com/c/PythonLearningChannel)
+
 - [Introductory Python lectures](https://github.com/rajathkumarmp/Python-Lectures.git) - IPython notebooks 
 
 - [Introduction to Computer Science and Programming in Python. Video Series from MIT 6.0001](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
