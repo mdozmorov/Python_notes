@@ -37,6 +37,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
   SciPy 1.0 Contributors, Pauli Virtanen, Ralf Gommers, Travis E. Oliphant, Matt Haberland, Tyler Reddy, David Cournapeau, et al. “SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python.” Nature Methods, February 3, 2020. https://doi.org/10.1038/s41592-019-0686-2.
 </details>
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python. [Directory](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md) of categorized algorithms.
+
 ## Cheatsheets
 
 - [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
