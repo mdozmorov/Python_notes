@@ -109,6 +109,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning. Layered approach to Pyhton and Machine Learning. From basics to advanced deep learning
 
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - Python gotchas, exploring and understanding Python through surprising snippets.
+
 ## Data Analysis
 
 - [Cleaning & Modifying A Dataframe – Python](https://datascienceplus.com/cleaning-modifying-a-dataframe-python/)
