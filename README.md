@@ -47,6 +47,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [awesome-python-talks](https://github.com/jhermann/awesome-python-talks) - An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience
 
+- [awesome-scientific-python](https://github.com/rossant/awesome-scientific-python) - A curated list of awesome scientific Python resources
+
 - [Matplotlib 3.1 cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 
 - [matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets) GitHub repo, Official Matplotlib cheat sheets
