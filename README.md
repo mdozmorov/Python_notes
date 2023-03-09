@@ -59,6 +59,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 ## Courses
 
+- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
+
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) book by Jake VanderPlas, [O'Relly web wersion](https://www.oreilly.com/learning/a-whirlwind-tour-of-python)
 
 - [An open access book on Python, OpenGL and Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/), Nicolas P. Rougier, 2018. [GitHub](https://github.com/rougier/python-opengl)
