@@ -71,6 +71,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, Spark, Hadoop MapReduce, HDFS, matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines
 
+- [free-python-books](https://github.com/pamoroso/free-python-books) - Many Python learning resources, grouped into introductory, intermediate, advanced, AI and machine learning, and other categories.
+
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) - free DataCamp course 
 
 - [Intermediate Python](https://github.com/yasoob/intermediatePython), [review with references to other e-books](http://www.blog.pythonlibrary.org/2015/09/02/ebook-review-intermediate-python/)
