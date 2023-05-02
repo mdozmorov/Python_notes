@@ -83,6 +83,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [Introduction to Computer Science and Programming in Python. Video Series from MIT 6.0001](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
+- [Harvard CS50’s Introduction to Programming with Python – Full University Course](https://youtu.be/nLRL_NcnK-4) - 16 hours Python course from Harvard University. [Slides, source code, and more](https://cs50.harvard.edu/python)
+
 - [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html) - Learning Python programming from ground up
 
 - [Hydropythonica](https://github.com/whitehorn/Hydropythonica) - Python programming basics. Lecture slides, iPython notebooks. Rus
