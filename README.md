@@ -111,6 +111,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 - [python_for_r_users](https://github.com/JBGruber/python_for_r_users) - Material for the workshop Python for R users. 
 
+- [r_and_python_book](https://github.com/tbrown122387/r_and_python_book) - An Introduction to R and Python For Data Analysis: A Side By Side Approach. [Bookdown](https://randpythonbook.netlify.app/)
+
 - [Scientific Python lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks
 
 - [These 7 GitHub repositories will take your Python skills to the next level](https://twitter.com/ChrisStaud/status/1593506802733572096) Tweet thread by [Chris Staudinger](https://twitter.com/ChrisStaud)
