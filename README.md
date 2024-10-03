@@ -165,6 +165,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 ## Python Misc
 
+- [Python_notes](https://github.com/mdozmorov/Python_notes) - Data science in Python notes (Russian)
+
 - [Comprehensive Beginner’s Guide to Jupyter Notebooks for Data Science & Machine Learning](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/), by Analytics Vidhya
 
 - [jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
