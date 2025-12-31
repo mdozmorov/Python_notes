@@ -140,6 +140,8 @@ Python learning and data analysis resources. Please, [contribute and get in touc
 
 ### Visualization
 
+- [Cosmograph](https://classic.cosmograph.app/) - large graph visualization, machine learning embeddings. [Examples](https://classic.cosmograph.app/examples), [Docs](https://classic.cosmograph.app/docs/cosmograph/Introduction), [Python package](https://classic.cosmograph.app/docs/cosmograph/Cosmograph%20Python/get-started-widget/)
+
 - [Clust](https://github.com/BaselAbujamous/clust) - Python script for gene clustering without strict requirement of all genes being assigned to clusters. Also, clustering across multiple datasets to find similar patterns. Timecourse clustering. Outperforms seven clustering techniques (cross-clustering, k-means, SOM, MCL, HC, Click, WGCNA) using seven metrics (Davies-Bouldin, BIC, silhouette, Calinski-Harabasz, Ball-Hall, Xu, within-between indices). <details>
   <summary>Paper</summary>
   Abu-Jamous, Basel, and Steven Kelly. “Clust: Automatic Extraction of Optimal Co-Expressed Gene Clusters from Gene Expression Data” Genome Biology 19, no. 1 (December 2018) https://doi.org/10.1186/s13059-018-1536-8
